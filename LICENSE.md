@@ -1,4 +1,4 @@
-# 
+# Oficial ObjectDetect configuração. Baixe e instale com verificação de compatibilidade e monitoramento em tempo real — rápido, seguro e fácil de usar.
 
 
 
